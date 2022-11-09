@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="helloWorld" class="org.ali.academy.HelloWorld" scope="prototype">
+        <property name="message" value="Chao mung ban den voi lop hoc java web full stack!"/>
+    </bean>
+
+    <bean id="employee" class="org.ali.academy.Employee">
+        <property name="name" value="Nguyen Ngoc Anh"/>
+        <property name="age" value="22"/>
+        <property name="address" value="Vu Tong Phan, Thanh Xuan, Ha Noi"/>
+    </bean>
+</beans>

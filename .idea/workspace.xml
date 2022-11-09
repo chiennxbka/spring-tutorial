@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bab60943-3602-4ebb-9047-3c1d1ba5a674" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/spring_aop_5_3_9_javadoc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-aop-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-aop-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-aop-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-aspects-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-aspects-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-aspects-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-beans-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-beans-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-beans-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-context-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-context-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-context-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-context-indexer-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-context-indexer-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-context-indexer-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-context-support-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-context-support-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-context-support-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-core-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-core-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-core-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-expression-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-expression-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-expression-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-instrument-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-instrument-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-instrument-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-jcl-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-jcl-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-jcl-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-jdbc-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-jdbc-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-jdbc-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-jms-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-jms-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-jms-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-messaging-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-messaging-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-messaging-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-orm-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-orm-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-orm-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-oxm-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-oxm-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-oxm-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-r2dbc-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-r2dbc-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-r2dbc-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-test-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-test-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-test-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-tx-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-tx-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-tx-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-web-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-web-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-web-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-webflux-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-webflux-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-webflux-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-webmvc-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-webmvc-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-webmvc-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-websocket-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-websocket-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/spring-websocket-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-core-tutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/ali/academy/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/ali/academy/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/ali/academy/SpringCoreApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/ali/academy/config/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring-beans.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HJPTJ7ktijNYaw8HFSRp2Ssgk1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "F:/Giang day lap trinh/spring-tutorial/spring-core-tutorial/libs/spring-websocket-5.3.9.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Giang day lap trinh\spring-tutorial\spring-core-tutorial\libs" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringCoreApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ali.academy.SpringCoreApp" />
+      <module name="spring-core-tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ali.academy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringCoreApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bab60943-3602-4ebb-9047-3c1d1ba5a674" name="Changes" comment="" />
+      <created>1668000222041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668000222041</updated>
+      <workItem from="1668000223523" duration="3959000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/ali/academy/config/Config.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/ali/academy/SpringCoreApp.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
