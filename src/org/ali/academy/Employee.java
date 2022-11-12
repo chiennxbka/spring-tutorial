@@ -8,6 +8,10 @@ public class Employee {
 
     private String address;
 
+    public Employee() {
+        System.out.println("Khoi tao Employee");
+    }
+
     public String getName() {
         return name;
     }

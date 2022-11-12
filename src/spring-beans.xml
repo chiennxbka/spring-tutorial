@@ -3,8 +3,12 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="helloWorld" class="org.ali.academy.HelloWorld" scope="prototype">
-        <property name="message" value="Chao mung ban den voi lop hoc java web full stack!"/>
+    <bean id="helloWorld" class="org.ali.academy.HelloWorld">
+        <property name="message" value="Chao mung ban den voi lop hoc java web full stack!(Inject by setter)"/>
+    </bean>
+
+    <bean id="helloWorld2" class="org.ali.academy.HelloWorld">
+        <constructor-arg value="Chao mung ban den voi lop hoc java web full stack!(Inject by constructor)"/>
     </bean>
 
     <bean id="employee" class="org.ali.academy.Employee">
@@ -12,4 +16,26 @@
         <property name="age" value="22"/>
         <property name="address" value="Vu Tong Phan, Thanh Xuan, Ha Noi"/>
     </bean>
+
+    <bean id="datasource" class="org.ali.academy.Datasource">
+        <property name="driverClassName" value="org.mariadb.jdbc.Driver"/>
+        <property name="url" value="jdbc:mariadb://mariadb-tutorial.clicssmtjld8.ap-northeast-2.rds.amazonaws.com/todo"/>
+        <property name="username" value="administrator"/>
+        <property name="password" value="6i6Z&amp;9ooKjFK"/>
+    </bean>
+
+    <!--<bean id="datasource" class="org.ali.academy.Datasource">
+        <property name="driverClassName" value="valur oracle"/>
+        <property name="url" value="value oracle"/>
+        <property name="username" value="orcl username"/>
+        <property name="password" value="orcl password"/>
+    </bean>-->
+
+    <!-- Definition for textEditor bean -->
+    <bean id = "textEditor" class = "org.ali.academy.TextEditor">
+        <constructor-arg ref = "spellChecker"/>
+    </bean>
+
+    <!-- Definition for spellChecker bean -->
+    <bean id="spellChecker" class="org.ali.academy.SpellChecker"/>
 </beans>
